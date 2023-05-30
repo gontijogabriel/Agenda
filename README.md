@@ -15,3 +15,8 @@ Este é um projeto de uma aplicação de Agenda de Contatos desenvolvida em Pyth
 ## Estrutura do Projeto
 - main.py: Ponto de entrada do aplicativo. Cria a janela principal e instancia a classe AgendaApp.
 - agenda_app.py: Contém a definição da classe AgendaApp, que encapsula a lógica da aplicação e a interface gráfica.
+
+### Interface
+![Interface](agenda.png)
+### SQL Server
+![Query SQL Server](agenda_sqlquery.png)
